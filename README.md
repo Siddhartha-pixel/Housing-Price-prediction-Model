@@ -20,7 +20,7 @@ This project is a machine learning model built to predict house prices. It uses 
 
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/YourUsername/YourRepoName.git)
+    git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/Siddhartha-pixel/Housing-Price-prediction-Model)
     cd YourRepoName
     ```
 
